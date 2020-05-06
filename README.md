@@ -3,7 +3,7 @@
 addition of two numbers
 
 # Installation
-npm install -i addition
+npm -i addition --save
 
 ```````
 import {add} from 'addition'
